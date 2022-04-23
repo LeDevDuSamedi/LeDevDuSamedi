@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LeDevDuSamedi
+- 👀 I’m interested in web coding
+- 🌱 I’m currently learning javascript
